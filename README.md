@@ -77,7 +77,7 @@ Built using best practices from:
 ## 🙌 Contributing
 
 Found a bug? Want to suggest a feature?  
-Open an issue or PR at: [github.com/YOUR_USERNAME/deltascope](https://github.com/YOUR_USERNAME/deltascope)
+Open an issue or PR at: [https://github.com/avsai24/DeltaScope/issues](https://github.com/avsai24/DeltaScope/issues)
 
 ---
 
