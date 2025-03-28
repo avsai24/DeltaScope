@@ -1,7 +1,7 @@
 {
-  "name": "DeltaScope",
-  "displayName": "deltascope",
-  "description": "Automatically show Git diffs beside the editor on file save.",
+  "name": "deltascope",
+  "displayName": "DeltaScope",
+  "description": "Automatically shows Git diffs beside the editor when saving files. Built by avs.ai.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
@@ -21,6 +21,17 @@
       }
     ]
   },
+  "author": {
+    "name": "avs.ai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avsai24/DeltaScope"
+  },
+  "bugs": {
+    "url": "https://github.com/avsai24/DeltaScope/issues"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/deltascope",
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
