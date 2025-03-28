@@ -1,5 +1,5 @@
 # DeltaScope
-![DeltaScope De](images/logo_2x2.png)
+![DeltaScope De](https://github.com/avsai24/DeltaScope/raw/HEAD/images/image.png)
 DeltaScope is a lightweight and intuitive VS Code extension that **automatically shows Git diffs beside the editor when you save a file** — no clicks, no shortcuts, just code → save → see changes.
 
 > Built with ❤️ by [avs.ai](https://avsai24.github.io/avsai_portfolio/)
@@ -30,7 +30,7 @@ DeltaScope will:
 
 You can add screenshots or GIFs like this:
 
-![DeltaScope Demo](images/deltascope_demo.png)
+![DeltaScope Demo](https://github.com/avsai24/DeltaScope/raw/HEAD/images/deltascope_demo.png)
 
 ---
 

@@ -7,4 +7,3 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
-- Updated logo [0.0.3]
