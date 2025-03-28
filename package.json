@@ -1,7 +1,7 @@
 {
   "name": "deltascope",
   "displayName": "DeltaScope",
-  "publisher": "avs.ai",
+  "publisher": "avsai",
   "description": "Automatically shows Git diffs beside the editor when saving files. Built by avs.ai.",
   "version": "0.0.1",
   "engines": {
