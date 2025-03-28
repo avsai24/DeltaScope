@@ -2,8 +2,9 @@
   "name": "deltascope",
   "displayName": "DeltaScope",
   "publisher": "avsai",
+  "icon": "icon.png", 
   "description": "Automatically shows Git diffs beside the editor when saving files. Built by avs.ai.",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.98.0"
   },
